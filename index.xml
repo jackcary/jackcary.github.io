@@ -26,11 +26,12 @@
       <pubDate>Mon, 30 Apr 2018 21:09:07 -1000</pubDate>
       
       <guid>https://jackcary.github.io/skills/</guid>
-      <description>Languages Golang, Javascript, C#, Bash
-Operating Systems CentOS, Ubuntu, Debian
-Continuous Build / Deploy Jenkins, Octopus Deploy
-VM and Containers VMWare, Docker
-Cloud Providers Rackspace, Azure</description>
+      <description>Languages Golang, Javascript, C#, Java, Bash, Python, Powershell, SQL
+Operating Systems and Distros Linux, macOS, Windows Server, CentOS, Ubuntu, Debian, Linux Mint
+Source Code Management and Revision Control Systems Git, GitHub, Bitbucket, Perforce, Subversion (SVN), ClearCase, VSS
+Databases and Data Stores MongoDB, Apache Solr, MySQL, Microsoft SQL Server, Apache HBase, Azure Blob Storage
+Continuous Build / Deploy Jenkins, Team City, Octopus Deploy, Netlify
+Virtualization and Containerization VMWare, VirtualBox, Docker</description>
     </item>
     
     <item>
