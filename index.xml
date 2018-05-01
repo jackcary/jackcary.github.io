@@ -29,7 +29,8 @@
       <description>Languages Golang, Javascript, C#, Bash
 Operating Systems CentOS, Ubuntu, Debian
 Continuous Build / Deploy Jenkins, Octopus Deploy
-VM and Containers VMWare, Docker</description>
+VM and Containers VMWare, Docker
+Cloud Providers Rackspace, Azure</description>
     </item>
     
     <item>
