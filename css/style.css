@@ -28,6 +28,7 @@ a.link-button {
     color: white;
     padding: 14px 25px;
     text-align: center;
+    font-weight: 500;
     text-decoration: none;
     display: inline-block;
 }
