@@ -1,4 +1,4 @@
-html, body {
+footer-navhtml, body {
  margin: 0;
  padding: 0;
  background: #feffff;
@@ -11,6 +11,7 @@ html, body {
 a {
   color: green;
   text-decoration: none;
+  font-weight: 500;
 }
 
 img {
@@ -91,11 +92,45 @@ ul.site-nav li.right {
   float: right;
 }
 
+nav.footer-nav {
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul.footer-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+ul.footer-nav li {
+  display: inline-block;
+
+}
+
+ul.footer-nav li a {
+    display: inline-block;
+    color: green;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+ul.footer-nav li.right {
+  float: right;
+}
+
 @media screen and (max-width: 600px) {
   ul.site-nav li.right,
   ul.site-nav li {float: none;}
+
 }
 
 footer {
+  margin-left: auto;
+  margin-right: auto;
   font-size: .750em;
 }
