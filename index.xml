@@ -36,7 +36,7 @@ GUI Developer / Software Specialist, Cirrus Technology, Inc. 1995-1998</descript
 Operating Systems and Distros Linux, macOS, Windows Server, CentOS, Ubuntu, Debian, Linux Mint
 Source Code Management and Revision Control Systems Git, GitHub, Bitbucket, Perforce, Subversion (SVN), ClearCase, VSS
 Databases and Data Stores MongoDB, Apache Solr, MySQL, Microsoft SQL Server, Apache HBase, Azure Blob Storage
-Continuous Build / Deploy Jenkins, Team City, Octopus Deploy, Netlify
+Continuous Integration, Deployment, Delivery Jenkins, Team City, Octopus Deploy, Netlify, Apache Maven
 Virtualization and Containerization VMWare, VirtualBox, Docker</description>
     </item>
     
