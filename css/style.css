@@ -12,6 +12,16 @@ body {
   font-weight: 700;
 }
 
+.navbar-toggler {
+  border: none;
+  outline: none;
+}
+
+.navbar-toggler-icon {
+  border: none;
+  outline: none;
+}
+
 .bg-custom {
   background-color: #000000;
 }
