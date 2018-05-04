@@ -12,27 +12,27 @@ body {
   font-weight: 700;
 }
 
-.bg-green {
-  background-color: #6aa84f;
+.bg-custom {
+  background-color: #000000;
 }
-a.bg-green:hover{
-  background-color: #93c47d;
-}
-
-.text-green {
-  color: #6aa84f;
+a.bg-custom:hover{
+  background-color: #333333;
 }
 
-a.text-green:hover{
-  color: #38761d;
+.text-custom {
+  color: #000000;
+}
+
+a.text-custom:hover{
+  color: #333333;
 }
 
 .btn {
-  color:white;
+  color: white;
 }
 
 .btn:hover {
-  color:white;
+  color: white;
 }
 
 .btn:focus, .btn:active {
