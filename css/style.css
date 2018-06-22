@@ -50,6 +50,10 @@ body {
   background-color: #f1f1f1;
 }
 
+.bg-custom-highlight {
+  background-color: #1cff94;
+}
+
 .text-custom-light {
   color: #f1f1f1;
 }
