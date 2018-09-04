@@ -30,7 +30,9 @@ Contact me for details.</description>
       <pubDate>Mon, 30 Apr 2018 21:09:37 -1000</pubDate>
       
       <guid>https://jackcary.github.io/experience/</guid>
-      <description>Summary of Qualifications 20+ years real-world experience developing business software solutions Autodidact, self-motivated, quick to learn new skills and technologies Expert knowledge of software development life cycle and various methodologies Experienced small business owner, adept at finding innovative budget-minded solutions Technical lead with ability to fulfill project requirements on time and drive team success Focused on implementing elegant, resilient, fully-automated, and high-availability systems  Professional Experience Software Consultant / Business Owner Independent Contractor 2017-Present Senior Software Engineer MyWebGrocer, Inc.</description>
+      <description>Independent Software Consultant / Owner Jack Cary Software Consultant LLC 2018-Present
+ Proven DevOps expert offering cost-effective solutions to organizations of all sizes. Services include business process automation, cloud migration, infrastructure as code, continuous delivery, real-time event processing, and custom web service development.  Senior Software Engineer MyWebGrocer, Inc. 2011-2016 (5 years)
+ Accelerated core product installation process from 6 weeks to &amp;lt; 48 hours by leveraging automation and continuous delivery technologies.</description>
     </item>
     
     <item>
@@ -39,7 +41,7 @@ Contact me for details.</description>
       <pubDate>Mon, 30 Apr 2018 21:09:07 -1000</pubDate>
       
       <guid>https://jackcary.github.io/skills/</guid>
-      <description>Languages GolangExpert   JavascriptAdvanced   C#Advanced   JavaAdvanced   BashAdvanced   SQLAdvanced   PowershellIntermediate   PythonIntermediate   RubyLearning       Operating Systems and Distros Linux (CentOS7)Expert   Windows ServerAdvanced   macOSIntermediate       Source Code Management and Revision Control Systems GitExpert   GitHubExpert   PerforceExpert   BitbucketAdvanced   Subversion (SVN)Advanced   ClearCaseIntermediate   Team FoundationLearning       Databases and Data Stores MongoDBExpert   Apache SolrExpert   MySQLAdvanced   Microsoft SQL ServerAdvanced   ElasticsearchLearning   Apache HBaseLearning       Continuous Integration, Deployment, Delivery JenkinsExpert   Octopus DeployAdvanced   Nexus / MavenIntermediate       Virtualization and Containerization VMWareAdvanced   VirtualBoxAdvanced   DockerIntermediate   KubernetesLearning       Cloud Services and Models Rackspace CloudExpert   Microsoft AzureAdvanced   AWSIntermediate   Serverless / FaaSLearning   Google Cloud PlatformLearning   HerokuLearning       Software Development Methodologies and Paradigms DevOpsExpert   Agile (Scrum)Expert   KanbanExpert   OOPAdvanced   MVPAdvanced   RADAdvanced       Load Balancing HAProxyExpert   Rackspace Load BalancerAdvanced   F5 Load BalancerIntermediate   Azure Load BalancerIntermediate       Web Servers NginxAdvanced   Apache TomcatAdvanced   Golang (net/http)Advanced   Node.</description>
+      <description>Languages GolangExpert     JavascriptAdvanced     C#Advanced     JavaAdvanced     BashAdvanced     SQLAdvanced     PowershellIntermediate     PythonIntermediate     RubyLearning       Operating Systems and Distros Linux (CentOS7)Expert     Windows ServerAdvanced     macOSIntermediate       Source Code Management and Revision Control Systems GitExpert     GitHubExpert     PerforceExpert     BitbucketAdvanced     Subversion (SVN)Advanced     ClearCaseIntermediate     Team FoundationLearning       Databases and Data Stores MongoDBExpert     Apache SolrExpert     MySQLAdvanced     Microsoft SQL ServerAdvanced     ElasticsearchLearning     Apache HBaseLearning       Continuous Integration, Deployment, Delivery JenkinsExpert     Octopus DeployAdvanced     Nexus / MavenIntermediate       Virtualization and Containerization VMWareAdvanced     VirtualBoxAdvanced     DockerIntermediate     KubernetesLearning       Cloud Services and Models Rackspace CloudExpert     Microsoft AzureAdvanced     AWSIntermediate     Serverless / FaaSLearning     Google Cloud PlatformLearning     HerokuLearning       Software Development Methodologies and Paradigms DevOpsExpert     Agile (Scrum)Expert     KanbanExpert     OOPAdvanced     MVPAdvanced     RADAdvanced       Load Balancing HAProxyExpert     Rackspace Load BalancerAdvanced     F5 Load BalancerIntermediate     Azure Load BalancerIntermediate       Web Servers NginxAdvanced     Apache TomcatAdvanced     Golang (net/http)Advanced     Node.</description>
     </item>
     
     <item>
@@ -48,7 +50,8 @@ Contact me for details.</description>
       <pubDate>Tue, 24 Apr 2018 19:40:01 -1000</pubDate>
       
       <guid>https://jackcary.github.io/contact/</guid>
-      <description> I&amp;rsquo;m always interested in new and exciting projects. Let&amp;rsquo;s get started!  jack@jackcary.com       LinkedIn       GitHub       @jackcary        </description>
+      <description>Ready to discuss the needs of your project? Send me an email to get started today.
+jack@jackcary.com</description>
     </item>
     
     <item>
@@ -57,7 +60,12 @@ Contact me for details.</description>
       <pubDate>Tue, 24 Apr 2018 19:38:49 -1000</pubDate>
       
       <guid>https://jackcary.github.io/services/</guid>
-      <description> Business Process Automation       Continuous Delivery       Cloud Orchestration       RESTful Web Services       Technology Evaluation       ETL and Data Migration       Custom Software Development        </description>
+      <description>Business Process Automation Streamline and accelerate your workflows.
+    Continuous Delivery Faster, better, software releases.
+    Cloud Migration and Orchestration Leverage the power and flexibility of the cloud.
+    RESTful Web Services Open up your data with secure and scalable APIs.
+    Technology Selection Choose the best tool for the job, every time.
+    ETL and Data Migration Move, transform, and repurpose your data.</description>
     </item>
     
     <item>
@@ -66,9 +74,9 @@ Contact me for details.</description>
       <pubDate>Sat, 21 Apr 2018 17:37:52 -1000</pubDate>
       
       <guid>https://jackcary.github.io/about/</guid>
-      <description>Hello, World! I&amp;rsquo;m Jack Cary, an independent software consultant in Burlington, Vermont.
+      <description>Hello, World! I&amp;rsquo;m Jack Cary, a Software Consultant and DevOps expert in Burlington, Vermont.
 I specialize in Business Process Automation, Cloud Orchestration, Systems Administration, Continuous Delivery, and RESTful Web Service development.
-I offer cost-effective software solutions to businesses of all sizes, ultimately saving valuable time and resources through the power of automation.
+I provide cost-effective information technology services and software solutions to businesses of all sizes, ultimately saving valuable time and resources through the power of automation.
 With over 20 years of real-world experience designing and developing business software, I have the skills and expertise to meet the needs of your project.</description>
     </item>
     

@@ -1,117 +1,71 @@
-body {
-  font-family: "Share Tech", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-  font-size: 28px;
-  background-color: #1d2123;
-  color: #f1f1f1;
+html {
+  font-size: 1.15em;
+  height:100%;
+  margin:0;
+  min-height: 100%;
 }
 
-.navbar-brand {
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: #f1f1f1;
-  border: 0;
+body{ height:100%; margin:0;
+  display:flex;
+  flex-direction:column;
 }
 
-.navbar-brand:hover {
-  color: #1cff94;
+footer{
+  margin-top:auto;
 }
 
-.nav-item {
-  color: #f1f1f1;
-}
-.nav-item:hover {
-  color: #1cff94;
+.text-underline {
+  text-decoration: underline;
 }
 
-.navbar {
-  font-size: 1.25rem;
-  font-weight: 700;
-  border: 0;
-  outline: none;
+.text-red {
+  color: #BF1722;
 }
 
-.navbar-toggler {
-  border: 0;
-  outline: none;
+.text-red:hover {
+  color: #BF1722;
+  text-decoration: underline;
 }
 
-.navbar-toggler-icon {
-  font-size: 1.5rem;
-  color: #f1f1f1;
-  border: 0;
-  outline: none;
+.btn-red {
+  color: #ffffff;
+  background-color: #BF1722;
+  border-color: #BF1722;
 }
 
-.bg-custom-dark {
-  background-color: #1d2123;
+.btn-red:hover {
+  color: #ffffff;
+  background-color: #ab141e;
+  border-color: #ab141e;
 }
 
-.bg-custom-light {
-  background-color: #f1f1f1;
+.btn-outline-red {
+  color: #BF1722;
+  border-color: #BF1722;
 }
 
-.bg-custom-highlight {
-  background-color: #1cff94;
+.btn-outline-red:hover {
+  background-color: #BF1722;
+  color: #ffffff;
 }
 
-.text-custom-light {
-  color: #f1f1f1;
+.navbar-brand small {
+  display: block;
+  font-size: .75em;
+  color: #BF1722;
 }
 
-a.text-custom-light:hover {
-  color: #1cff94;
+.navbar-light .navbar-nav .nav-link {
+  color: black;
+  font-size: .85em;
 }
 
-.text-custom-dark {
-  color: #1d2123;
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #BF1722;
+  font-size: .85em;
 }
 
-.text-custom-highlight {
-  color: #1cff94;
-}
-
-
-a {
-  color: #1cff94;
-}
-
-/* unvisited link */
-a:link {
-}
-
-/* visited link */
-a:visited {
-}
-
-/* mouse over link */
-a:hover {
-    color: #1cff94;
-}
-
-/* selected link */
-a:active {
-}
-
-.btn-custom-dark {
-  color: #1cff94;
-  background-color: #1d2123;
-  border-width: 1;
-  border-color: #1cff94;
-  font-size: 1.25rem;
-  font-weight: 700;
-}
-
-.btn {
-  color: #f1f1f1;
-  color: #1cff94;
-}
-
-.btn:hover {
-  color: #1d2123;
-  background-color: #1cff94;
-}
-
-.btn:focus, .btn:active {
-   outline: none !important;
-   box-shadow: none;
+.border-2 {
+    border-width:2px !important;
+    border-color: #BF1722;
 }
